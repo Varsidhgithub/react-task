@@ -324,7 +324,7 @@
 }
 @media (min-width: 360px) and (max-width: 768px) {
   .main-section {
-    height: 1150px !important;
+    height: 940px !important;
     background: linear-gradient(
       to right,
       #fff5ec 0%,
